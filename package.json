@@ -1,5 +1,6 @@
 {
   "name": "megeheti",
+  "repo": "https://github.com/Csillag61/megeheti.git",
   "version": "0.1.0",
   "description": "A starter for React-Apollo-GraphQL projects",
   "private": true,
@@ -14,6 +15,7 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
+    "apollo-server": "^2.19.2",
     "apollo-server-express": "^2.19.2",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
